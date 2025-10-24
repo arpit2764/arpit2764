@@ -10,7 +10,7 @@ I'm a passionate software developer with hands-on experience in building scalabl
 - 🌱 Learning **advanced data structures, algorithms**, and **cloud technologies**
 - 💼 Open to **SDE roles**, **full-stack development**, and **ML engineering** opportunities
 - 🎯 2025 Goal: Secure a challenging role at a product-based company
-- 📫 Reach me at: **[your-email@example.com]**
+- 📫 Reach me at: **garpit133@gmail.com**
 
 ---
 
